@@ -1,0 +1,47 @@
+p {
+  text-decoration: underline;
+  color: black;
+}
+
+span {
+  text-decoration: underline;
+  color: orange;
+}
+
+p span {
+  text-decoration: none;
+}
+
+.hide {
+  display: none;
+}
+
+.red {
+  color: red;
+}
+
+div {
+  cursor: pointer;
+  background: pink;
+  width: 120px;
+}
+
+ul {
+  margin-top: 0px;
+  width: 120px;
+  padding-left: 0;
+  background: pink;
+  margin-bottom: 15px;
+}
+
+ul li {
+  list-style: none;
+  text-align: center;
+  width: 100%;
+  cursor: pointer;
+}
+
+ul li:hover {
+  background: darkmagenta;
+}
+/*# sourceMappingURL=style.css.map */

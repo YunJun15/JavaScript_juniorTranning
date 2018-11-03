@@ -1,0 +1,56 @@
+// --Note--
+一、英文單複數
+1.陣列之類的集合結構，有數量很多的意思，
+大部份都用"複數"型態的字詞，或者資料的類型來分別
+-> studentArray
+-> students
+2.執行動作(函式或方法)
+    2-1 針對單一變數行為，用單數:
+    -> addItem()
+    2-2 針對多個數的行為，用複數:
+    -> addItems()
+    2-3 針對全體行為，用All:
+    -> removeAll()
+二、
+1.常見的英文計量字詞
+    count numberOf amountOf price cost(成本) length width height speed
+2.常見的布林值開頭字詞
+    isEmpty hasBasket
+3.常見的字串值開頭字詞
+    string name description label text
+4.常用的動作詞（函數用）開頭
+    make take 做某...事
+    move 移動
+    add 加上、相加
+    delete/remove 移除
+    insert 單體 splice 複合體
+    extend append 展開
+    set 設定
+    get 獲取
+    print 印出
+    list 列出
+    reset 重置
+    link 連至
+    repeat 重覆
+    replace 取代
+    find search 尋找
+    xxxTo 到xxx
+5.具時間意義或指示的字詞
+    will 通常只即將發生但未發生
+    did 已發生
+    should 應該發生
+三、等號(=)
+    ● 一個等號(=)：分配、指定(Assigntment)
+    ● 二個等號(==)：比較運算符號，用於比較兩個變數or常數的其中的值是否相等
+    ● 三個等號(===)：用於比較兩個變數or常數是否完全相等(包含類型與值)。它的反義符號是(!==)。
+四、括號
+    ●括號() Parentheses
+    ●中括號[] Brackets/square，主要用於JavaScript陣列
+    ●大括號{} Braces/Curly brackets(捲毛的括號)
+五、引號"" 
+JavaScript中，用於字串的宣告
+Quote/Single Quote
+
+※變數宣告
+常數：規定在宣告時就一定要給定值
+變數：沒這規定，所以變數的情況可以分成兩個敘述
