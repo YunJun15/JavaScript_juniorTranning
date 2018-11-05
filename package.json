@@ -1,0 +1,23 @@
+{
+  "name": "javascript_juniortranning",
+  "version": "1.0.0",
+  "description": "junior JavaScript practice",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^5.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunJun15/JavaScript_juniorTranning.git"
+  },
+  "author": "joyce Zeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YunJun15/JavaScript_juniorTranning/issues"
+  },
+  "homepage": "https://github.com/YunJun15/JavaScript_juniorTranning#readme"
+}
